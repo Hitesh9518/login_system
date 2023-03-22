@@ -1,0 +1,12 @@
+#### Login system Ajax - Using SESSION  #####
+#1 Registration
+#2 Login (By Email And Password)
+#4 Header Footer (For Login User and Not Login User)
+#3 Welcom page (With Login User First Name and Last Name )
+#4 Display Data (With Edit Profile Only Current Login's user)
+#5 Edit User (With ajax validation)
+#6 Change Password With validation
+#7 Forgot Password With validation
+#8 Logout
+
+Deadline : 21-Mar-2023 before end of the day
